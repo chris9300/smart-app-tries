@@ -1,4 +1,4 @@
 # smart-app-tries
-This repository is just for test puposes of smart on fhir
+This repository is test puposes of smart on fhir. It shows how to use Smart-on-Fhir to create a PosiThera Fhir-Resource.
 
-Published under https://chris9300.github.io/smart-app-tries/
+It is published under https://chris9300.github.io/smart-app-tries/ to use it for the Smart-Launcher. 
